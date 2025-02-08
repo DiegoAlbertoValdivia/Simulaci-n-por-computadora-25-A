@@ -1,1 +1,1 @@
-# Simulaci-n-por-computadora-25-A
+# Simulacion-por-computadora-25-A
