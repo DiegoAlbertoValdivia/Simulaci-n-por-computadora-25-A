@@ -12,4 +12,8 @@ Godot tiene su propio lenguaje de programación llamado GDScript, que es similar
 
 ## primera imagen del incio del juego y movimiento
 
-![Logo de Godot](https://github.com/DiegoAlbertoValdivia/Simulaci-n-por-computadora-25-A/blob/main/Practica%2004%20-%20%20Desarrollo%20de%20Juego%203D%20en%20Godot/Captura%20de%20pantalla%202025-04-05%20110422.png)
+![Logo de Godot](https://github.com/DiegoAlbertoValdivia/Simulaci-n-por-computadora-25-A/blob/main/Practica%2004%20-%20%20Desarrollo%20de%20Juego%203D%20en%20Godot/Captura%20de%20pantalla%202025-04-05%20105303.png)
+
+## segunda imagen muerte por colision con enemigo
+
+![Logo de Godot](https://github.com/DiegoAlbertoValdivia/Simulaci-n-por-computadora-25-A/blob/main/Practica%2004%20-%20%20Desarrollo%20de%20Juego%203D%20en%20Godot/Captura%20de%20pantalla%202025-04-05%20105418.png)
